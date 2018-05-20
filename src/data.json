@@ -1,0 +1,44 @@
+{
+	"data": [
+		{
+			"alert_gid": "224",
+			"size": 50,
+			"unit": "bps",
+			"destination_ip": "12.0.23.16",
+			"start_time": 1526838100,
+			"stop_time": 1526838800
+		},
+		{
+			"alert_gid": "300",
+			"size": 100,
+			"unit": "bps",
+			"destination_ip": "12.0.23.16",
+			"start_time": 1526838650,
+			"stop_time": 1526838500
+		},
+		{
+			"alert_gid": "12",
+			"size": 200,
+			"unit": "bps",
+			"destination_ip": "12.0.23.16",
+			"start_time": 1526838350,
+			"stop_time": 1526838846
+		},
+		{
+			"alert_gid": "123",
+			"size": 400,
+			"unit": "bps",
+			"destination_ip": "12.0.23.16",
+			"start_time": 1526838500,
+			"stop_time": 1526838846
+		},
+		{
+			"alert_gid": "13",
+			"size": 1600,
+			"unit": "bps",
+			"destination_ip": "12.0.23.16",
+			"start_time": 1526838550,
+			"stop_time": 1526838500
+		}
+	]
+}

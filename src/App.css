@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.App-title {
+  font-size: 1.5em;
+}
+.App-intro {
+  font-size: large;
+}
+.axis--x path {
+  display: none;
+}
+.bar_chart_container {
+  background-color: #ddd;
+  height: 65%;
+}
+.bar_chart_container > svg {
+  margin: 2%;
+}
